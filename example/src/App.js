@@ -5,6 +5,7 @@ import 'liontaskbtn/dist/index.css'
 
 const App = () => {
   return (
+    // Butonlarımızın stillendirmelerini type'ına göre yaptık
     <>
     <div className='container'>
       <Button type='primary' text='Primary Button'></Button>
